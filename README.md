@@ -5,14 +5,14 @@ This repository has the script of the end to end tests for the superplayer appli
 
 the script have several test cases, such as:
 
--login
+- login
 
--search
+- search
 
--ask for class
+- ask for class
 
--comment on trainer's profile
+- comment on trainer's profile
 
--edit user page
+- edit user page
 
--edit trainer page
+- edit trainer page
