@@ -3,7 +3,7 @@
 
 This repository has the script of the end to end tests for the superplayer application
 
-the script has several test cases, such as:
+The script has several test cases, such as:
 
 - login
 
