@@ -16,3 +16,5 @@ The script has several test cases, such as:
 - edit user page
 
 - edit trainer page
+
+To see the full application click on this [link](https://github.com/Riei-Joaquim/SuperPlayer)
