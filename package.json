@@ -1,0 +1,23 @@
+{
+  "name": "superplayer-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amb-lucas/superplayer-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amb-lucas/superplayer-tests/issues"
+  },
+  "homepage": "https://github.com/amb-lucas/superplayer-tests#readme"
+}
